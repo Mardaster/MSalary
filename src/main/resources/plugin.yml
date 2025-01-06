@@ -1,0 +1,17 @@
+name: MSalary
+version: '1.0-SNAPSHOT'
+main: me.plugin.com.mSalary.MSalary
+api-version: '1.18'
+authors: [ Mardaster ]
+depend:
+  - Vault
+  - LuckPerms
+commands:
+  msalary:
+    description: "Перезагружает конфигурацию плагина."
+    usage: /msalary reload
+    permission: msalary.reload
+permissions:
+  msalary.reload:
+    description: "Разрешение на использование команды /msalary reload."
+    default: op

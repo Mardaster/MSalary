@@ -1,0 +1,7 @@
+# English messages for MSalary
+reload-success: "&aMSalary configuration successfully reloaded!"
+no-permission: "&cYou do not have permission to use this command!"
+
+salary-message-minutes: "&a[Salary] You received {salary}$ for spending {time} minutes on the server!"
+salary-message-hours: "&a[Salary] You received {salary}$ for spending {time} hours on the server!"
+salary-message-seconds: "&a[Salary] You received {salary}$ for spending {time} seconds on the server!"

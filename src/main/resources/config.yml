@@ -1,0 +1,7 @@
+time: 10m # Интервал выдачи зарплаты (10 минут)
+lang: ru
+salaries:
+  default: 100
+  vip: 200
+  premium: 300
+  ultimate: 500
